@@ -1,2 +1,2 @@
 # Introdução ao Framework Django
-Introdução ao Framework Django do Fabio Ruicci
+Este é o ínico do projeto de Introdução ao Framework Django do Fabio Ruicci
